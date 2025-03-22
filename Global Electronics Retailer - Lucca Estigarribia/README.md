@@ -8,14 +8,14 @@
 
 ## ✏️ **Índice de Contenido**
 
-1. Descripción General del Proyecto
-2. Estructura de Carpetas y Archivos
-3. Objetivos del Análisis
-4. Datos Utilizados
-5. Metodología y Pasos Realizados
-6. Principales Hallazgos
-7. Recomendaciones Estratégicas
-8. Consideraciones Finales
+1. [Descripción General del Proyecto](#-descripción-general-del-proyecto)
+2. [Estructura de Carpetas y Archivos](#-estructura-de-carpetas-y-archivos)
+3. [Objetivos del Análisis](#-objetivos-del-análisis)
+4. [Datos Utilizados](#-datos-utilizados)
+5. [Metodología y Pasos Realizados](#-metodología-y-pasos-realizados)
+6. [Principales Hallazgos](#-principales-hallazgos)
+7. [Recomendaciones Estratégicas](#-recomendaciones-estratégicas)
+8. [Consideraciones Finales](#-consideraciones-finales)
 
 ---
 
