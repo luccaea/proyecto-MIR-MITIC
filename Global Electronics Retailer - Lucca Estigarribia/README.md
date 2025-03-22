@@ -28,18 +28,18 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio y estadíst
 ## 🗂 **Estructura de Carpetas y Archivos**
 
 ```
-.
-├── data
-│   ├── raw
-│   │   ├── Customers.csv         # Información de los clientes
-│   │   ├── Products.csv          # Detalles de los productos
-│   │   ├── Sales.csv             # Histórico de ventas
-│   │   ├── Stores.csv            # Detalles de las tiendas
-│   │   ├── Exchange_Rates.csv    # Tipos de cambio
-│   │   ├── Data_Dictionary.csv   # Diccionario de datos
-├── notebook
-│   ├── Global_Retail_Analysis.ipynb  # Notebook con todo el análisis, visualizaciones y conclusiones
-├── README.md                     # Este archivo
+Global Electronics Retailer - Lucca Estigarribia
+├── raw
+│   ├── Customers.csv
+│   ├── Products.csv
+│   ├── Sales.csv
+│   ├── Stores.csv
+│   ├── Exchange_Rates.csv
+│   ├── Data_Dictionary.csv
+├── Global_Retail_Analysis.ipynb  # Notebook con todo el análisis
+├── README.md                     # Documento general del proyecto
+├── Proyecto_Final_Lucca.docx     # Documento detallado y explicativo
+
 ```
 
 ---
