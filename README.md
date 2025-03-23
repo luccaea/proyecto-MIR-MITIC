@@ -29,6 +29,7 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio y estadíst
 
 ```
 Global Electronics Retailer - Lucca Estigarribia
+├── data_clean # Archivos limpios e imputados
 ├── raw
 │   ├── Customers.csv
 │   ├── Products.csv
@@ -37,8 +38,9 @@ Global Electronics Retailer - Lucca Estigarribia
 │   ├── Exchange_Rates.csv
 │   ├── Data_Dictionary.csv
 ├── Global_Retail_Analysis.ipynb  # Notebook con todo el análisis
-├── README.md                     # Documento general del proyecto
 ├── Proyecto_Final_Lucca.docx     # Documento detallado y explicativo
+├── Proyecto_Final_Lucca.pbix     # Presentacion Power BI
+├── README.md                     # Documento general del proyecto
 ```
 
 ---
