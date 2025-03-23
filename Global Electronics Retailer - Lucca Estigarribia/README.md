@@ -29,8 +29,12 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio y estadíst
 
 ```
 Global Electronics Retailer - Lucca Estigarribia
-├── data_clean # Archivos limpios e imputados
-├── raw
+├── data_clean                     # Archivos limpios e imputados
+│   ├── customers_clean.csv
+│   ├── products_clean.csv
+│   ├── sales_clean.csv
+│   ├── stores_clean.csv
+├── raw                            # Archivos sucios y sin imputar
 │   ├── Customers.csv
 │   ├── Products.csv
 │   ├── Sales.csv
